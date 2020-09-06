@@ -7,6 +7,6 @@ A project created by following freeCodeCamp's Laravel PHP Framework Tutorial <br
 Modifications : <br>
 * Fix blank page in new user's feed (No followers) ✅
 * Add comments to a post ❌
-* Add like/react option for a post ❌
+* Add like/react option for a post ✅
 * Add navigation ✅
-* Style all pages ❌
+* Style all pages ✅
