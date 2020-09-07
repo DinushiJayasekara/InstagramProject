@@ -1,4 +1,4 @@
-# InstagramProject
+# Bookworms
 
 A project based on freeCodeCamp's Laravel PHP Framework Tutorial <br>
 @ https://www.youtube.com/watch?v=ImtZ5yENzgE&t <br>
